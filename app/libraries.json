@@ -1,0 +1,146 @@
+[
+  {
+    "artifactId": "circularimageview",
+    "excludes": [],
+    "groupId": "com.mikhaellopez",
+    "versionName": "4.2.0"
+  },
+  {
+    "artifactId": "circleimageview",
+    "excludes": [],
+    "groupId": "de.hdodenhof",
+    "versionName": "3.1.0"
+  },
+  {
+    "artifactId": "android-image-cropper",
+    "excludes": [],
+    "groupId": "com.theartofdev.edmodo",
+    "versionName": "2.8.0"
+  },
+  {
+    "artifactId": "firebase-messaging",
+    "excludes": [],
+    "groupId": "com.google.firebase",
+    "versionName": "20.2.0"
+  },
+  {
+    "artifactId": "appcompat",
+    "excludes": [],
+    "groupId": "androidx.appcompat",
+    "versionName": "1.4.0"
+  },
+  {
+    "artifactId": "material",
+    "excludes": [],
+    "groupId": "com.google.android.material",
+    "versionName": "1.6.0-alpha01"
+  },
+  {
+    "artifactId": "preference",
+    "excludes": [],
+    "groupId": "androidx.preference",
+    "versionName": "1.1.1"
+  },
+  {
+    "artifactId": "legacy-preference-v14",
+    "excludes": [],
+    "groupId": "androidx.legacy",
+    "versionName": "1.0.0"
+  },
+  {
+    "artifactId": "webkit",
+    "excludes": [],
+    "groupId": "androidx.webkit",
+    "versionName": "1.1.0"
+  },
+  {
+    "artifactId": "constraintlayout",
+    "excludes": [],
+    "groupId": "androidx.constraintlayout",
+    "versionName": "1.1.3"
+  },
+  {
+    "artifactId": "firebase-ui-database",
+    "excludes": [],
+    "groupId": "com.firebaseui",
+    "versionName": "6.2.1"
+  },
+  {
+    "artifactId": "glide",
+    "excludes": [],
+    "groupId": "com.github.bumptech.glide",
+    "versionName": "4.12.0"
+  },
+  {
+    "artifactId": "firebase-auth",
+    "excludes": [],
+    "groupId": "com.google.firebase",
+    "versionName": "19.3.1"
+  },
+  {
+    "artifactId": "firebase-database",
+    "excludes": [],
+    "groupId": "com.google.firebase",
+    "versionName": "19.3.0"
+  },
+  {
+    "artifactId": "firebase-storage",
+    "excludes": [],
+    "groupId": "com.google.firebase",
+    "versionName": "19.1.1"
+  },
+  {
+    "artifactId": "legacy-support-v4",
+    "excludes": [],
+    "groupId": "androidx.legacy",
+    "versionName": "1.0.0"
+  },
+  {
+    "artifactId": "countrycodepicker",
+    "excludes": [],
+    "groupId": "com.github.joielechong",
+    "versionName": "2.4.2"
+  },
+  {
+    "artifactId": "GBKCountryCodePicker",
+    "excludes": [],
+    "groupId": "com.github.gbksoft",
+    "versionName": "v1.0.0"
+  },
+  {
+    "artifactId": "country-picker-android",
+    "excludes": [],
+    "groupId": "com.github.yesterselga",
+    "versionName": "2.0"
+  },
+  {
+    "artifactId": "firebase-ui-storage",
+    "excludes": [],
+    "groupId": "com.firebaseui",
+    "versionName": "6.2.1"
+  },
+  {
+    "artifactId": "firebase-analytics",
+    "excludes": [],
+    "groupId": "com.google.firebase",
+    "versionName": "17.4.3"
+  },
+  {
+    "artifactId": "emoji-google",
+    "excludes": [],
+    "groupId": "com.vanniktech",
+    "versionName": "0.7.0"
+  },
+  {
+    "artifactId": "SimpleSearchView",
+    "excludes": [],
+    "groupId": "com.github.Ferfalk",
+    "versionName": "0.2.0"
+  },
+  {
+    "artifactId": "collapsingtoolbarlayout-subtitle",
+    "excludes": [],
+    "groupId": "com.hendraanggrian.material",
+    "versionName": "1.0.0"
+  }
+]
